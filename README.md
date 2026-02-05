@@ -1,2 +1,2 @@
 # ML-Learning-Journey
-This repository contains my daily learning notebooks as I an trying to learn ML &amp; Python
+This repository contains documents of my structured learning of ML as a part of my MS AI.
